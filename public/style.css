@@ -87,6 +87,10 @@ body {
   max-width: 614px;
 }
 
+.red {
+  color:red;
+}
+
 .sidebar {
   width: 293px;
 }
